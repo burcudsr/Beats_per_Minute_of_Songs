@@ -3,7 +3,7 @@
 This project focuses on predicting the Beats-per-Minute (BPM) of songs using machine learning techniques. The project utilizes data from the **Kaggle Playground Series - Season 5, Episode 9**.
 
 ### 🚀 Live Demo
-Explore the interactive BPM prediction model here: https://huggingface.co/spaces/bdaser/BPM
+Explore the interactive BPM prediction model here: **[BPM Prediction App](https://huggingface.co/spaces/bdaser/BPM)**
 
 ### 📊 Dataset & Preprocessing
 The dataset provides a set of audio-related features to predict song tempo, comprising a total of **524,164 training samples**. Key preprocessing steps include:
