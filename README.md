@@ -21,4 +21,4 @@ Various regression algorithms were evaluated. Submissions are officially evaluat
 | **XGBRegressor** | -0.008001 | 26.550723 | 21.263813 |
 
 ### 📈 Analysis Summary
-The competition utilizes **Root Mean Squared Error (RMSE)** as the primary evaluation metric. Our analysis shows that while multiple models were tested, the **Gradient Boosting** regressor provided the most competitive performance in minimizing prediction error. This project serves as a baseline for understanding how audio features drive BPM variance.
+The competition utilizes **Root Mean Squared Error (RMSE)** as the primary evaluation metric. Our analysis shows that while multiple models were tested, the **Gradient Boosting** regressor provided the most competitive performance in minimizing prediction error. 
